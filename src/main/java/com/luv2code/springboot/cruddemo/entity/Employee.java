@@ -24,7 +24,6 @@ public class Employee {
 
     // define constructors
     public Employee() {
-
     }
 
     public Employee(String firstName, String lastName, String email) {
